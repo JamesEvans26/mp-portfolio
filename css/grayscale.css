@@ -102,9 +102,8 @@
   font-size: 2.5rem;
   line-height: 2.5rem;
   letter-spacing: 0.8rem;
-  background: -webkit-linear-gradient(rgb(20 19 73), rgb(20 4 4 / 0%));
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
+  color: #ffffff;
+
 }
 
 .masthead h2 {
@@ -272,7 +271,7 @@ blockquote {
 }
 
 body {
-  font-family: 'Nunito';
+  font-family: 'Noto Sans', sans-serif;
   letter-spacing: 0.0625em;
 }
 
